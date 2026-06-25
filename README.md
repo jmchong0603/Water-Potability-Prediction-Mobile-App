@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 
-# View the screenshot on Screenshot FYP.doc
+# View the screenshot on (Screenshot FYP.doc)
 
 
 # Getting Started
